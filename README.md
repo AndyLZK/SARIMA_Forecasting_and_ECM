@@ -2,7 +2,7 @@
 
 In this notebook, we will explore a time series model's theoretical foundations and mathematical intuition with real-world applications to Singapore's 1975 Q1 to 2024 Q4 Quarterly Gross Domestic Product (GDP) and Consumption data.
 
-Link for Dataset: https://tablebuilder.singstat.gov.sg/
+Dataset: https://tablebuilder.singstat.gov.sg/
 
 The analysis is divided into two main sections:
 
@@ -26,5 +26,12 @@ The analysis is divided into two main sections:
 
 ## Reference
 
-  - Textbook
-      - 
+### Textbook
+
+  - Introductory Econometrics: A Modern Approach 5th Edition (by Jeffrey M Woodridge)
+  - Time Series Analysis and Its Application Third Edition by G.Casella, S.Fienberg, I.Olkin
+
+### Additional Links
+  - https://stats.stackexchange.com/questions/201919/utility-of-the-frisch-waugh-theorem
+  - https://mcs.utm.utoronto.ca/~nosedal/sta457/pacf.pdf
+  - https://online.stat.psu.edu/stat510/lesson/2/2.2
