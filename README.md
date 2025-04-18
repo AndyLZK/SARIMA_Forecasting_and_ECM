@@ -6,7 +6,7 @@ Link for Dataset: https://tablebuilder.singstat.gov.sg/
 
 The analysis is divided into two main sections:
 
-Section 1: Time Series Forecasting on Singapore's GDP 
+- Section 1: Time Series Forecasting on Singapore's GDP 
 
   - 1.1 Time Series Assumptions
   - 1.2 Exploratory Data Analysis on GDP
@@ -16,7 +16,7 @@ Section 1: Time Series Forecasting on Singapore's GDP
   - 1.6 Seasonal Auto Regressive Integrated Moving Average (SARIMA)
   - 1.7 Out-of-Sample Forecasting
 
-Section 2: Error Correction Model
+- Section 2: Error Correction Model
 
   - 2.1 Exploratory Data Analysis on Consumption
   - 2.2 Time Series Analysis on Consumption
@@ -25,7 +25,7 @@ Section 2: Error Correction Model
   - 2.5 Engle-Granger Two-Step Procedure
   - 2.6 Out-of-Sample Forecasting for Error Correction Model
 
-Reference:
+- Reference:
 
   - Textbook
       - 
