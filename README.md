@@ -1,1 +1,1 @@
-# SARIMA_Forecasting_and_ECM
+# Seasonal Auto Regressive Integrated Moving Average (SARIMA) Forecasting and Error Correction Model (ECM)
