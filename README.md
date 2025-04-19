@@ -1,6 +1,6 @@
 # Seasonal Auto Regressive Integrated Moving Average (SARIMA) Forecasting and Error Correction Model 
 
-In this notebook, we will explore time series models' theoretical foundations and mathematical intuition with real-world applications to Singapore's 1975 Q1 to 2024 Q4 Quarterly Gross Domestic Product (GDP) and Consumption data.
+In this notebook, we will explore the theoretical foundations and mathematical intuition behind time series models with real-world applications to Singapore's 1975 Q1 to 2024 Q4 Quarterly Gross Domestic Product (GDP) and Consumption data.
 
 Dataset: https://tablebuilder.singstat.gov.sg/
 
